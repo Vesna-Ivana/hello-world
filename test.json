@@ -1,9 +1,9 @@
 {
-  "welcome_message": "Hi {username}",
-  "popular_links": "Popular Links",
-  "ecosystem": "Ecosystem",
+  "welcome_message": "Bok {username}",
+  "popular_links": "Popularni Linkovi",
+  "ecosystem": "Ekosustav",
   "pages": {
-    "about": "About you",
-    "blog": "Tech-Blog"
+    "about": "o tebi",
+    "blog": "Teh-Blog"
   }
 }
